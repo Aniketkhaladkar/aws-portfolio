@@ -10,7 +10,7 @@
 7. Enabled HTTPS using CloudFront
 
 ## Live URL
-https://dxxxxxxxx.cloudfront.net
+https://d2k2b1swb4q0pe.cloudfront.net/
 
 ## Tech Used
 - AWS S3
